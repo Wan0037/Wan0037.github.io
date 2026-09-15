@@ -23,7 +23,7 @@ repository               : "aWan0037.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/My-photo.jpg"
+  avatar           : "/images/myphoto.png"
   name             : "Wan Xt"
   pronouns         : "She/Her"  
   bio              : "Graduate student."
