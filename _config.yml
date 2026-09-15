@@ -23,9 +23,9 @@ repository               : "aWan0037.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/my-photo.png"
   name             : "Wan Xt"
-  pronouns         : "she/her"  
+  pronouns         : "She/Her"  
   bio              : "Graduate student."
   location         : "Nanjing, China"
   employer         : "Nanjing University"
